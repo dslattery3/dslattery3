@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dslattery3
-- 👀 I’m interested in starting a new career in the world of technology
-- 🌱 I’m currently learning using online resources such as Udemy and CS50
-- 💞️ I’m looking to collaborate on any entry level problems in order to build more confidence and develop my skills
+- 👋 Hi, I’m Dalton Slattery
+- 🌱 I graduated from Flatiron School's Software Engineering Bootcamp in April 2022 and since then I have been developing apps for personal projects as well as taking          courses online through Udemy and other online services to continue to grow my skills
+- 💞️ I’m looking to collaborate on any problems or applications in order to build more confidence and develop my skills
 
 <!---
 dslattery3/dslattery3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
